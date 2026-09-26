@@ -253,4 +253,21 @@ If you find this project helpful, please give it a ⭐ on GitHub!
 
 ---
 
+
+## 📸 Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Products
+![Products](screenshots/products.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Sales Report
+![Sales Report](screenshots/admin-sales-report.png)
+
+---
+
 **Built with ❤️ using Laravel**
